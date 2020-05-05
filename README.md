@@ -6,16 +6,16 @@ Many nicknames...
 
 # Current Status Implementation
 
-[muted] == [m] == it means i muted myself from speaking inside your server
+**[muted]** == **[m]** == it means i muted myself from speaking inside your server
 
-[burned] == i lost my hope in your manners
+**[burned]** == i lost my hope in your manners
 
-[dekreyed] == -.-
+**[dekreyed]** == -.-
 
-[not hayyan] == i am not speaking to hayyan
+**[not hayyan]** == i am not speaking to hayyan
 
-[not magic] == i am not an Unicorn
+**[not magic]** == i am not an Unicorn
 
-[ununimininied] == o.o
+**[ununimininied]** == o.o
 
 
