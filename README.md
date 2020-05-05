@@ -10,7 +10,7 @@ Many nicknames...
 
 **[burned]** == i lost my hope in your manners
 
-**[dekreyed]** == -.-
+**[retard]** == all the time
 
 **[not hayyan]** == i am not speaking to hayyan
 
